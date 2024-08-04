@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Cheeseburger",
+    "avatar": "https://example.com/images/cheeseburger.jpg",
+    price": "5000",
+    category": "Xod dog",
+    dateAdded": "2024-08-04"
+  },
+  {
+    "id": "2",
+    "name": "Pepperoni Pizza",
+    "avatar": "https://example.com/images/pepperoni-pizza.jpg",
+    price": "7000",
+    category": "Xod dog",
+    dateAdded": "2024-08-04"
+  },
+  {
+    "id": "3",
+    "name": "Chicken Shawarma",
+    "avatar": "https://example.com/images/chicken-shawarma.jpg",
+    price": "6000",
+    category": "Donar",
+    dateAdded": "2024-08-04"
+  },
+  {
+    "id": "4",
+    "name": "Lavash Roll",
+    "avatar": "https://example.com/images/lavash-roll.jpg",
+    price": "4500",
+    category": "Lavash",
+    dateAdded": "2024-08-04"
+  },
+  {
+    "id": "5",
+    "name": "Coca Cola",
+    "avatar": "https://example.com/images/coca-cola.jpg",
+    price": "2000",
+    category": "Suvlar",
+    dateAdded": "2024-08-04"
+  }
+]
